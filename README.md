@@ -4,7 +4,7 @@ Olá, boas-vindas ao meu perfil! 👋
 
 **`Desenvolvedor-Back-end-Cybersegurança`**
 
-Me chamo Adilson junior. Atualmente,🎓 Cursando: Cibersegurança (Anhanguera).
+Me-chamo Adilson junior. Atualmente,🎓 Cursando: Cibersegurança (Anhanguera).
 💻 Foco: Desenvolvimento Back-end, Python e SQL.
 📊 Estudando: Ciência de Dados, e Inglês.📚Aqui você encontrará meus projetos e minha evolução no mundo tech.🎯
                 *Boas-vindas ao meu perfil*
