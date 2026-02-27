@@ -14,7 +14,6 @@ Me-chamo Adilson junior. Atualmente,🎓 Cursando: Cibersegurança (Unifecaf).
 
                 *Boas-vindas ao meu perfil*
 
-### 🤖 Linguagens e Tecnologias
 
 ## 🛠️ Linguagens e Tecnologias
 
@@ -38,7 +37,6 @@ Me-chamo Adilson junior. Atualmente,🎓 Cursando: Cibersegurança (Unifecaf).
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
 
 
-### 📊 Estatísticas
 
 ### 📊 Competências Técnicas & Foco
 
@@ -51,7 +49,7 @@ Me-chamo Adilson junior. Atualmente,🎓 Cursando: Cibersegurança (Unifecaf).
 
 ---
 
-### 📂 Projetos em Destaque:
+### 📂 Projetos:
 * 🐍 **Automação de Processos & Relatórios (Python)**
 Desenvolvimento de robôs para extração de dados com Pandas, manipulação de planilhas e envio automatizado de e-mails customizados. Otimização de fluxos de login e navegação em sistemas via interface (RPA).
 * 🛡️ **Laboratórios de Cyber:** Estudos práticos em Pentest e Segurança de Redes. Desenvolvimento de laboratórios controlados para testes de intrusão e análise de falhas em infraestruturas locais.
