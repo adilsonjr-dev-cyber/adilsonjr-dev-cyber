@@ -2,11 +2,12 @@
 
 Olá, boas-vindas ao meu perfil! 👋
 
-**`Desenvolvedor-Back-end-Cybersegurança`**
+**`Desenvolvedor-Back-end-RPA-Cybersegurança`**
 
 Me-chamo Adilson junior. Atualmente,🎓 Cursando: Cibersegurança (Unifecaf).
-💻 Foco: Desenvolvimento Back-end, Python e SQL.
-📊 Estudando: Ciência de Dados, e Inglês.📚Aqui você encontrará meus projetos e minha evolução no mundo tech.🎯
+💻 Foco: Desenvolvimento Back-end, Python,SQL e Automação de Processos.
+📚 Estudando: Pentest, Defesa de Redes e Inglês.
+🎯Aqui você encontrará meus projetos e minha evolução no mundo tech.
                 *Boas-vindas ao meu perfil*
 
 ### 🤖 Linguagens e Tecnologias
@@ -15,8 +16,6 @@ Me-chamo Adilson junior. Atualmente,🎓 Cursando: Cibersegurança (Unifecaf).
 
 <div align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Data_Science-2cf2ff?style=for-the-badge&logo=jupyter&logoColor=black" alt="Data Science" />
   <img src="https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge&logo=google-cloud&logoColor=white" alt="AI" />
   <img src="https://img.shields.io/badge/Cyber_Security-31E704?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Cyber Security" />
   <img src="https://img.shields.io/badge/English-blue?style=for-the-badge&logo=google-translate&logoColor=white" alt="English" />
@@ -27,6 +26,13 @@ Me-chamo Adilson junior. Atualmente,🎓 Cursando: Cibersegurança (Unifecaf).
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </div>
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+
+<img src="https://img.shields.io/badge/PyAutoGUI-yellow?style=for-the-badge&logo=python&logoColor=blue" alt="PyAutoGUI" />
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+
 
 ### 📊 Estatísticas
 
@@ -34,17 +40,17 @@ Me-chamo Adilson junior. Atualmente,🎓 Cursando: Cibersegurança (Unifecaf).
 
 | Área | Tecnologias e Estudos |
 | :--- | :--- |
-| **Linguagens de Programação** | Python, SQL (Foco em Banco de Dados) |
+| **Linguagens de Programação** | Python, SQL (Foco em Manipulação de Dados e Automação) |
 | **Cibersegurança** | Defesa de Redes, Pentest, Segurança da Informação |
-| **Ciência de Dados** | Pandas, NumPy, Manipulação de Grandes Volumes |
-| **Automação** | PyAutoGUI, Automação de Processos e Relatórios |
+| **Automação** |  RPA com PyAutoGUI (Logins e Interface), Automação de E-mails e Relatórios de Dados. |
 | **Ferramentas** | Git, GitHub, Linux, VS Code |
 
 ---
 
-### 📂 Projetos em Destaque
-* 🐍 **Automação de Relatórios:** Sistema em Python que utiliza Pandas para tratar dados e enviar e-mails automaticamente.
-* 🛡️ **Laboratórios de Cyber:** Estudos práticos focados em vulnerabilidades e proteção de dados.
+### 📂 Projetos em Destaque:
+* 🐍 **Automação de Processos & Relatórios (Python)**
+Desenvolvimento de robôs para extração de dados com Pandas, manipulação de planilhas e envio automatizado de e-mails customizados. Otimização de fluxos de login e navegação em sistemas via interface (RPA).
+* 🛡️ **Laboratórios de Cyber:** Estudos práticos em Pentest e Segurança de Redes. Desenvolvimento de laboratórios controlados para testes de intrusão e análise de falhas em infraestruturas locais.
 
 ---
 
@@ -60,10 +66,9 @@ Me-chamo Adilson junior. Atualmente,🎓 Cursando: Cibersegurança (Unifecaf).
 ---
 ### 📚 Em Andamento & Especialização
 
-* 🛡️ **Cyber Security** — <img src="https://img.shields.io/badge/Anhanguera-E6332A?style=flat-square&logo=education&logoColor=white" height="20"> **Faculdade Anhanguera** (Estudando 3/5)
+* 🛡️ **Cyber Security** — <img src="https://img.shields.io/badge/UniFecaf-E6332A?style=flat-square&logo=education&logoColor=white" height="20"> **Faculdade UniFecaf** (Estudando 2/5)
 * 🐍 **Python** — <img src="https://img.shields.io/badge/Hashtag_Treinamentos-FFD700?style=flat-square&logo=python&logoColor=black" height="20"> **Hashtag** (se aprofundando)
 * 🗄️ **SQL** — 🚀 (Se aprofundado)
-* 📊 **Ciência de Dados** — 🧪 (Estudando)
 * 🇬🇧 **Inglês** — <img src="https://img.shields.io/badge/Hashtag_Treinamentos-FFD700?style=flat-square&logo=google-translate&logoColor=black" height="20"> **Hashtag** (Estudando)
 
 ---
