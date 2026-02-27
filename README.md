@@ -5,8 +5,11 @@ Olá, boas-vindas ao meu perfil! 👋
 **`Desenvolvedor-Back-end-RPA-Cybersegurança`**
 
 Me-chamo Adilson junior. Atualmente,🎓 Cursando: Cibersegurança (Unifecaf).
+
 💻 Foco: Desenvolvimento Back-end, Python,SQL e Automação de Processos.
+
 📚 Estudando: Pentest, Defesa de Redes e Inglês.
+
 🎯Aqui você encontrará meus projetos e minha evolução no mundo tech.
                 *Boas-vindas ao meu perfil*
 
